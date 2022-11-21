@@ -23,11 +23,6 @@ public class MainClass02 {
 		isWait = false;
 		canRun = true;
 		
-		// 줄복사 ctrl alt 아래
-		// 줄삭제 ctrl d
-		// 주석처리 ctrl + / 
-		// 전체 페이지 삭제 ctrl shfit w
-		// 줄정리 ctrl shift f
 		System.out.println("iswait : "+isWait);
 		System.out.println("canRun : "+canRun);
 		
