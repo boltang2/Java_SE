@@ -8,6 +8,7 @@ package Test;
  * 줄정리 ctrl shift f
  * 메소드 설명 주석 alt shift j
  * 임포트 ctrl shift o
+ * getset alt shift s 
  *	
  * 	
  */
