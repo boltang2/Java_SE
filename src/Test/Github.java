@@ -9,6 +9,7 @@ package Test;
  * 메소드 설명 주석 alt shift j
  * 임포트 ctrl shift o
  * getset alt shift s 
+ * 주석처리 드래그 + /
  *	
  * 	
  */
