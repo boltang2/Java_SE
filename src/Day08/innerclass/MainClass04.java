@@ -23,7 +23,6 @@ public class MainClass04 {
 				System.out.println("솔져 공격!");
 			}
 		});
-		m
-		s.w.attack();
+
 	}
 }
